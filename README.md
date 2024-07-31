@@ -1,5 +1,7 @@
 # Svelte 5 todo app (one day build)
 
+Demo: [https://turtureanu.github.io/svelte-5-todo-app/](https://turtureanu.github.io/svelte-5-todo-app/)
+
 A small and simple todo web application made using Sveltekit, Tailwind CSS, and **Svelte 5** in one day.
 
 ![A screenshot of the app](./screenshot.png)
